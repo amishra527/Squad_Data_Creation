@@ -1,0 +1,660 @@
+C:/Users/NIC/Desktop/hackthon/AI MAHARASHTRA TEAM A/FINAL/set2.json
+C:/Users/NIC/Desktop/hackthon/AI MAHARASHTRA TEAM A/FINAL/dataset_Maharashtra/dataset_Maharashtra/Data_2500_verifiedIndexes.json
+C:/Users/NIC/Desktop/hackthon/AI MAHARASHTRA TEAM A/FINAL/dataset_Maharashtra/dataset_Maharashtra/data_265_plus.json
+C:/Users/NIC/Desktop/hackthon/AI MAHARASHTRA TEAM A/FINAL/dataset_Maharashtra/dataset_Maharashtra/newset_MergedFile.json
+C:/Users/NIC/Desktop/hackthon/AIUPTeam_Hackthon2022/AIUPTeam_Hackthon2022/AIUPTeam_Hackthon2022/All_Ministry_Departments_Questions/All_Department_Combined_Files.json
+C:/Users/NIC/Desktop/hackthon/AIUPTeam_Hackthon2022/AIUPTeam_Hackthon2022/AIUPTeam_Hackthon2022/Department_of_Personnel_and_Training/DPT_All.json
+C:/Users/NIC/Desktop/hackthon/AIUPTeam_Hackthon2022/AIUPTeam_Hackthon2022/AIUPTeam_Hackthon2022/Department_of_Science_and_Technology/SandT_All.json
+C:/Users/NIC/Desktop/hackthon/AIUPTeam_Hackthon2022/AIUPTeam_Hackthon2022/AIUPTeam_Hackthon2022/Election_Commission_of_India/ECI_All.json
+C:/Users/NIC/Desktop/hackthon/AIUPTeam_Hackthon2022/AIUPTeam_Hackthon2022/AIUPTeam_Hackthon2022/Ministry_of_commerce_and_industries/Ministry_of_commerce_and_industries.json
+C:/Users/NIC/Desktop/hackthon/AIUPTeam_Hackthon2022/AIUPTeam_Hackthon2022/AIUPTeam_Hackthon2022/Ministry_of_Electronics_and_IT/Ministry_of_electronics_and_it.json
+C:/Users/NIC/Desktop/hackthon/AIUPTeam_Hackthon2022/AIUPTeam_Hackthon2022/AIUPTeam_Hackthon2022/Ministry_of_Law/Ministry_of_Law_Department_of_Justice.json
+C:/Users/NIC/Desktop/hackthon/AIUPTeam_Hackthon2022/AIUPTeam_Hackthon2022/AIUPTeam_Hackthon2022/Ministry_of_Law/Ministry_of_Law_Legislative_Department.json
+C:/Users/NIC/Desktop/hackthon/AIUPTeam_Hackthon2022/AIUPTeam_Hackthon2022/AIUPTeam_Hackthon2022/Union_Budget_and_Economic_Survey/Union_Budget_and_Economic_Survey_new.json
+C:/Users/NIC/Desktop/hackthon/AIUPTeam_Hackthon2022/STAGE2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/AI_Hackthon_NIC_Puducherry/aihackthon_pundicharry_nic/Ayush/AYUSH.json
+C:/Users/NIC/Desktop/hackthon/AI_Hackthon_NIC_Puducherry/aihackthon_pundicharry_nic/DEPOJ/DEPOJ.json
+C:/Users/NIC/Desktop/hackthon/AI_Hackthon_NIC_Puducherry/aihackthon_pundicharry_nic/DHLTH/DHLTH.json
+C:/Users/NIC/Desktop/hackthon/AI_Hackthon_NIC_Puducherry/aihackthon_pundicharry_nic/DLGLA/DLGLA.json
+C:/Users/NIC/Desktop/hackthon/AI_Hackthon_NIC_Puducherry/aihackthon_pundicharry_nic/DMAFF/DMAFF.json
+C:/Users/NIC/Desktop/hackthon/AI_Hackthon_NIC_Puducherry/aihackthon_pundicharry_nic/DOAAC/DOAAC.json
+C:/Users/NIC/Desktop/hackthon/AI_Hackthon_NIC_Puducherry/aihackthon_pundicharry_nic/DOAHD/DOAHD.json
+C:/Users/NIC/Desktop/hackthon/AI_Hackthon_NIC_Puducherry/aihackthon_pundicharry_nic/DOCAF/DOCAF.json
+C:/Users/NIC/Desktop/hackthon/AI_Hackthon_NIC_Puducherry/aihackthon_pundicharry_nic/DODAF/DODAF.json
+C:/Users/NIC/Desktop/hackthon/AI_Hackthon_NIC_Puducherry/aihackthon_pundicharry_nic/DODWS/DODWS.json
+C:/Users/NIC/Desktop/hackthon/AI_Hackthon_NIC_Puducherry/aihackthon_pundicharry_nic/DOEXP/DOEXP.json
+C:/Users/NIC/Desktop/hackthon/AI_Hackthon_NIC_Puducherry/aihackthon_pundicharry_nic/DORVU/DORVU.json
+C:/Users/NIC/Desktop/hackthon/AI_Hackthon_NIC_Puducherry/aihackthon_pundicharry_nic/DOSAT/DOSAT.json
+C:/Users/NIC/Desktop/hackthon/AI_Hackthon_NIC_Puducherry/aihackthon_pundicharry_nic/DSEHE/DSEHE.json
+C:/Users/NIC/Desktop/hackthon/AI_Hackthon_NIC_Puducherry/aihackthon_pundicharry_nic/MINIT/MINIT.json
+C:/Users/NIC/Desktop/hackthon/AI_Hackthon_NIC_Puducherry/aihackthon_pundicharry_nic/MINPA/MINPA.json
+C:/Users/NIC/Desktop/hackthon/AI_Hackthon_NIC_Puducherry/aihackthon_pundicharry_nic/MOPRJ/MOPRJ.json
+C:/Users/NIC/Desktop/hackthon/AI_Hackthon_NIC_Puducherry/aihackthon_pundicharry_nic/UIDAI/UIDAI.json
+C:/Users/NIC/Desktop/hackthon/AI_Hackthon_NIC_Puducherry/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/bihar ai hackathon/squad_minify_all.json
+C:/Users/NIC/Desktop/hackthon/bihar ai hackathon/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/chhattisgarhiya sable badhiya/CG_DATA.json
+C:/Users/NIC/Desktop/hackthon/chhattisgarhiya sable badhiya/chhattisgarhiya_sable_badhiya_database/chhattisgarhiya_sable_badhiya_database/CG_DATA.json
+C:/Users/NIC/Desktop/hackthon/chhattisgarhiya sable badhiya/chhattisgarhiya_sable_badhiya_database/chhattisgarhiya_sable_badhiya_database/Department of Commerce/COMMERCE P C VERMA.json
+C:/Users/NIC/Desktop/hackthon/chhattisgarhiya sable badhiya/chhattisgarhiya_sable_badhiya_database/chhattisgarhiya_sable_badhiya_database/Department of Social Justice and Empowerment/NFS_OBC_2020-21.json
+C:/Users/NIC/Desktop/hackthon/chhattisgarhiya sable badhiya/chhattisgarhiya_sable_badhiya_database/chhattisgarhiya_sable_badhiya_database/Invest India/FAQ Invest India.json
+C:/Users/NIC/Desktop/hackthon/chhattisgarhiya sable badhiya/chhattisgarhiya_sable_badhiya_database/chhattisgarhiya_sable_badhiya_database/Ministry of External Affairs/MEA.json
+C:/Users/NIC/Desktop/hackthon/chhattisgarhiya sable badhiya/chhattisgarhiya_sable_badhiya_database/chhattisgarhiya_sable_badhiya_database/Ministry of Finance/finance.json
+C:/Users/NIC/Desktop/hackthon/chhattisgarhiya sable badhiya/chhattisgarhiya_sable_badhiya_database/chhattisgarhiya_sable_badhiya_database/The parliament of India/The parliament of India.json
+C:/Users/NIC/Desktop/hackthon/chhattisgarhiya sable badhiya/chhattisgarhiya_sable_badhiya_database/chhattisgarhiya_sable_badhiya_database/UIDAI/UIDAI.json
+C:/Users/NIC/Desktop/hackthon/chhattisgarhiya sable badhiya/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/COE Guawahati/merged-json/merged-json.json
+C:/Users/NIC/Desktop/hackthon/COE Guawahati/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/DOCOM/Background note on the WTO Negotiations.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/DOCOM/OPENING STATEMENT ON BEHALF OF INDIA.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/DOCOM/STRENGTHENING THE WTO.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/DOCOM/TRADE POLICY REVIEW.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/Election Commision/Compendium of Instructions On Election Expenditure Monitoring.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/MHRD/National Education Policy 2020.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/MINHA/NDMA/National Disaster Management Plan.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/Ministry of Education/ARPIT- 2020.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/Ministry of Education/NTA/All India Sainik Schools Entrance Examination 2022.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/Ministry of Education/NTA/BBAU - PG.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/Ministry of Education/NTA/CMAT.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/Ministry of Education/NTA/GPAT.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/Ministry of Education/NTA/JEE MAINS.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/Ministry of Law and Justice/THE BILATERAL NETTING OF QUALIFIED FINANCIAL CONTRACTS ACT, 2020.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/Ministry of Law and Justice/THE FUGITIVE ECONOMIC OFFENDERS ACT, 2018.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/Ministry of Law and Justice/THE INTERNATIONAL FINANCIAL SERVICES CENTRES AUTHORITY ACT, 2019.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/Ministry of Personnel, Public Grievance & Pensions/CCS-Pension-Rule.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/Ministry of Personnel, Public Grievance & Pensions/Central Civil Services (Implementation of National Pension System (NPS)) Rules, 2021.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/MINPA/BUDGETARY PROCESS IN PARLIAMENT.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/MINPA/DEMAND, SUBSIDY AND PRICING.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/MINPA/GENDER BUDGETING IN INDIA A TOOL OF WOMENS EMPOWERMENT.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/MINPA/INDIA'S FISCAL DEFICIT-CAUSES,TRENDSAND IMPLICATIONS.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/MINPA/INTRODUCTION OF GOODS AND SERVICES TAX.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/MINPA/MATERNAL HEALTH IN INDIA ISSUES AND PRIORITIES.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/MINPA/MEMBERS OF THE SIXTEENTH LOK SABHA A STUDY.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/MINPA/Railway Safety.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/MINPA/SAFETY OF CHILDREN.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/MINPA/WATER CONSERVATION AND MANAGEMENT IN INDIA.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/UIDAI/AADHAAR HANDBOOK.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/Education Projects Division/Education Projects Division/UIDAI/THE AADHAAR AND OTHER LAWS (AMENDMENT) ACT, 2019.txt.json
+C:/Users/NIC/Desktop/hackthon/Education Project Division/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/Ezhaam Arivu(7th sense)-OTG/ezhaam_train_dataset.json
+C:/Users/NIC/Desktop/hackthon/Ezhaam Arivu(7th sense)-OTG/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/Knowledge Graph from NIC TN/combined_new_2.json
+C:/Users/NIC/Desktop/hackthon/Knowledge Graph from NIC TN/KGNICTN-Roberta-base/KGNICTN-Roberta-base/combined_new_2.json
+C:/Users/NIC/Desktop/hackthon/Knowledge Graph from NIC TN/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/Magic.ai/MagicAI_Dataset_AllMinistries.json
+C:/Users/NIC/Desktop/hackthon/Magic.ai/MagicAI_MinstrywiseDATASET/MINData/CommerceDept/SQD9.json
+C:/Users/NIC/Desktop/hackthon/Magic.ai/MagicAI_MinstrywiseDATASET/MINData/ECI/SQD10.json
+C:/Users/NIC/Desktop/hackthon/Magic.ai/MagicAI_MinstrywiseDATASET/MINData/EPFO/SQD8.json
+C:/Users/NIC/Desktop/hackthon/Magic.ai/MagicAI_MinstrywiseDATASET/MINData/InvestIndia/SQD7.json
+C:/Users/NIC/Desktop/hackthon/Magic.ai/MagicAI_MinstrywiseDATASET/MINData/MeitY/SQD6.json
+C:/Users/NIC/Desktop/hackthon/Magic.ai/MagicAI_MinstrywiseDATASET/MINData/MinistryOfFIN/SQD5.json
+C:/Users/NIC/Desktop/hackthon/Magic.ai/MagicAI_MinstrywiseDATASET/MINData/MinstryOfExternalffair/SQD4.json
+C:/Users/NIC/Desktop/hackthon/Magic.ai/MagicAI_MinstrywiseDATASET/MINData/ParliamentOFIndia/SQD3.json
+C:/Users/NIC/Desktop/hackthon/Magic.ai/MagicAI_MinstrywiseDATASET/MINData/PensionerPortal/SQD2.json
+C:/Users/NIC/Desktop/hackthon/Magic.ai/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/meity/meity.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/meity/Meity_BHIM_Cashback.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/meity/NDSAP.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/meity/Rupay.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/mha/CDR__IPSCadre.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/mha/DST.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/mha/DST_CodeofConduct.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/mha/MHA_NERS.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/mha/MHA_NPDM.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/mha/MHA_SahajBijliHarGharYojana.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/mha/MHA_SAUBHAGYA.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/mha/MoHUA_PMAY-U.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/mha/new_policy.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/mha/PMAY-U_AwasYojana.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/ministr of health/NationalHealthMission.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/Ministry of Agriculture & Farmers Welfare/AGRICULTURE.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/Ministry of Agriculture & Farmers Welfare/PM-KISAN_KIsanSAmmanNidhi.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/ministry of aviation/AirSportActivities.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/ministry of aviation/DisinvestmentAirIndia.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/ministry of aviation/GREENFIELDAIRPORTSPOLICY.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/ministry of aviation/GREENFIELDAIRPORTSPOLICY_2.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/ministry of aviation/NASP2.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/ministry of aviation/NATIONALAIRSPORTSPOLICY2022.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/ministry of edu/NEP_1.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/ministry of edu/NewEducationPolicy_2.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/Ministry of New & Renewable Energy/NationalHydrogenMission.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/ministry of women and child welfare/Crimes_Against_Children.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/ministry of women and child welfare/DepartmentofWomenandChild.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/MhaInformatics2trainingdatasetMinistryWise/minstry of railways/indianRail_metro.json
+C:/Users/NIC/Desktop/hackthon/MHAInformatic2/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/NIC Assam/train_set_qna_modified.json
+C:/Users/NIC/Desktop/hackthon/NIC Assam/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/NIC Dadra abd Nagar Haveli/MOdify dev-v2.0.280722.json
+C:/Users/NIC/Desktop/hackthon/NIC Gujarat/merged_train_2.json
+C:/Users/NIC/Desktop/hackthon/NIC Gujarat/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/NIC Haryana, Chandigarh/NIC Haryana/combined.json
+C:/Users/NIC/Desktop/hackthon/NIC Karnataka/annotation_data_NIC_Karnataka/annotation_data_NIC_Karnataka/batch1_2000QnA/train_data_01.json
+C:/Users/NIC/Desktop/hackthon/NIC Karnataka/annotation_data_NIC_Karnataka/annotation_data_NIC_Karnataka/batch1_2000QnA/valid_data_01.json
+C:/Users/NIC/Desktop/hackthon/NIC Karnataka/annotation_data_NIC_Karnataka/annotation_data_NIC_Karnataka/batch2_2200QnA/train_data_02.json
+C:/Users/NIC/Desktop/hackthon/NIC Karnataka/annotation_data_NIC_Karnataka/annotation_data_NIC_Karnataka/batch2_2200QnA/valid_data_02.json
+C:/Users/NIC/Desktop/hackthon/NIC Karnataka/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/NIC Kerala/NIC_KERALA_DATA/NIC_KERALA_DATA/Allqa.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Kerala/NIC_KERALA_DATA/NIC_KERALA_DATA/DEAPR/1_changed1_qa.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Kerala/NIC_KERALA_DATA/NIC_KERALA_DATA/DOCOM/commerce_qa.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Kerala/NIC_KERALA_DATA/NIC_KERALA_DATA/MEAPD/deafinal.txt.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Kerala/NIC_KERALA_DATA/NIC_KERALA_DATA/MEAPD/MEA1 (1).txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Kerala/NIC_KERALA_DATA/NIC_KERALA_DATA/MINIT/contexts.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Kerala/NIC_KERALA_DATA/NIC_KERALA_DATA/MOLBR/epfo.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Kerala/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/Central board of Direct tax/incometaxqas.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/Department of Consumer affaris/qas.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/Dept of Rural Development/qna1.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/Dept of Rural Development/qna2.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/Dept of Skill Develpment & enterpreneurship/qna.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/Dept of Telecommunication/qna.json.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/Deptt of Health & Family Welfare/qna.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/DoPT/qna1.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/DoPT/qna2.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/DoPT/qna3.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/DPIIT/qna.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/MInistry of corporate affaris/Ministryofcorporateaffair.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/Ministry of exServiceman/qna.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/Ministry of heavy industries/heavyindustryqas.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/Ministry of Labour & employment/qna.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/Ministry of Labour & employment/qna2.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/Ministry of Labour & employment/qna3.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/MInistry of New & Renewable energy/qn3.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/MInistry of New & Renewable energy/qna1.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/MInistry of New & Renewable energy/qna2.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/Ministry of Road Transport/qna.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/Ministry of Women & Child/qna.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/NIC Manipur Train Data/NIC Manipur/UIDAI/uidaiqas.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Manipur/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/NIC Meghalaya/NIC Meghalaya/NIC Meghalaya/DEAPR/2_data.json
+C:/Users/NIC/Desktop/hackthon/NIC Meghalaya/NIC Meghalaya/NIC Meghalaya/DEPOJ/Election_Com._data.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Meghalaya/NIC Meghalaya/NIC Meghalaya/DOCOM/spices_coffee_marine.json
+C:/Users/NIC/Desktop/hackthon/NIC Meghalaya/NIC Meghalaya/NIC Meghalaya/DOEAF/222064.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Meghalaya/NIC Meghalaya/NIC Meghalaya/DOEAF/IFSCA Act 2019_1.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Meghalaya/NIC Meghalaya/NIC Meghalaya/DOEAF/indiancoinageact1906.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Meghalaya/NIC Meghalaya/NIC Meghalaya/DOIPP/Invest_IND_data.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Meghalaya/NIC Meghalaya/NIC Meghalaya/MEAPD/mea.json
+C:/Users/NIC/Desktop/hackthon/NIC Meghalaya/NIC Meghalaya/NIC Meghalaya/MINIT/MeiTy - Train.json
+C:/Users/NIC/Desktop/hackthon/NIC Meghalaya/NIC Meghalaya/NIC Meghalaya/MINPA/parliament.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Meghalaya/NIC Meghalaya/NIC Meghalaya/MOLBR/EPFO_data_1.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Meghalaya/NIC Meghalaya/NIC Meghalaya/MOLBR/EPFO_data_2.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Meghalaya/NIC Meghalaya/NIC Meghalaya/MOLBR/EPFO_data_3.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Meghalaya/NIC Meghalaya/NIC Meghalaya/MOLBR/EPFO_data_4.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Meghalaya/NIC Meghalaya/NIC Meghalaya/UIDAI/Aadhar and Other Laws Amendment Act.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Meghalaya/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Clean Data/DEA/1265GI.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Clean Data/DEA/222064.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Clean Data/DEA/ADBAct1966.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Clean Data/DEA/IFSCAACT2019.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Clean Data/DEA/indiancoinageact1906.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Clean Data/DEA/metaltokensact1889.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Clean Data/DEA/SeniorCSavingSch_0.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Clean Data/DEA/THEGOVERNMENTSECURITIESREGULATIONS2005.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Clean Data/DOEXP/procurementmanual.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Clean Data/DORVU/Narcotic-Drugs-and-Psychotropic-Substances-Rules-1985.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Clean Data/ECI/1799581347_CompendiumofInstructionsonElectionExpenditureMonitoring(October2021)-English.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Clean Data/ECI/Compendium_of_Instruction_on_Media_Related_Matters_2020_19022021.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Clean Data/ECI/ECI SVEEP 2014.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Clean Data/ECI/ecicon.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Clean Data/Parliament/Annual Report 2021-22 English_0.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Clean Data/Parliament/Manual of Parliamentary Procedure-2018.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Clean Data/Parliament/Manual of Parliamentary Procedures in the Government of INDIA-2019.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Clean Data/Parliament/MATERNAL HEALTH IN INDIA_ ISSUES AND PRIORITIES.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Clean Data/Parliament/StudyReportParliamentary Secretary.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Clean Data/UIDAI/data2.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/DOCOM/datasetQuestion5.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/InvestIndia/Automobile.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/InvestIndia/Biotechnology.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/InvestIndia/BondedManufacturing.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/InvestIndia/Chemicals.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/InvestIndia/Construction.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/InvestIndia/ECommerce.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/InvestIndia/Finance.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/InvestIndia/Food.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/InvestIndia/Healthcare.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/InvestIndia/Invest_India_Frequently_Asked_Questions.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/InvestIndia/IT.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/InvestIndia/MedicalDevices.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/InvestIndia/Metals.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/InvestIndia/Oil.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/InvestIndia/Ports.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/InvestIndia/Roads.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/InvestIndia/Visa.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/Meity/ApplicationDevelopment.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/Meity/CyberSecurityPolicy.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/Meity/Datasecurity.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/Meity/emailpolicy.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/Meity/PolicyonuseofITResources.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/Meity/softwarepolicy.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/Meity/Useofportabledevices.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/Meity/userrole.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/Pensioners' Portal/pensionerFAQ.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/Pensioners' Portal/Sainik.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/NICPunjab/NICPunjab/Yet to be cleaned Data/UIDAI/datasetQuestion3.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Punjab/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/NIC Sikkim AI team/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/NIC Telangana State Centre/NICTS/NICTS/doec/doec.json
+C:/Users/NIC/Desktop/hackthon/NIC Telangana State Centre/NICTS/NICTS/ecoi/ecoi.json
+C:/Users/NIC/Desktop/hackthon/NIC Telangana State Centre/NICTS/NICTS/epfoi/epfoi.json
+C:/Users/NIC/Desktop/hackthon/NIC Telangana State Centre/NICTS/NICTS/ioei/ioei.json
+C:/Users/NIC/Desktop/hackthon/NIC Telangana State Centre/NICTS/NICTS/mocai/mocai.json
+C:/Users/NIC/Desktop/hackthon/NIC Telangana State Centre/NICTS/NICTS/moea/moea.json
+C:/Users/NIC/Desktop/hackthon/NIC Telangana State Centre/NICTS/NICTS/moei/moei.json
+C:/Users/NIC/Desktop/hackthon/NIC Telangana State Centre/NICTS/NICTS/nps/nps.json
+C:/Users/NIC/Desktop/hackthon/NIC Telangana State Centre/NICTS/NICTS/poi/prlmt.json
+C:/Users/NIC/Desktop/hackthon/NIC Telangana State Centre/NICTS/NICTS/sbm/sbm.json
+C:/Users/NIC/Desktop/hackthon/NIC Telangana State Centre/NICTS/NICTS/uidai/uidai.json
+C:/Users/NIC/Desktop/hackthon/NIC Telangana State Centre/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/NIC Uttarakhand Ai Hackathon 2022/NIC Uttarakhand AI Hackathon 2022/NIC Uttarakhand AI Hackathon 2022/commerce/Commerce _Departmenttxt.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Uttarakhand Ai Hackathon 2022/NIC Uttarakhand AI Hackathon 2022/NIC Uttarakhand AI Hackathon 2022/Dopt/UK_ASD_DoPT_Office Procedures 13-07-2022 .txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Uttarakhand Ai Hackathon 2022/NIC Uttarakhand AI Hackathon 2022/NIC Uttarakhand AI Hackathon 2022/ECI/eci.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Uttarakhand Ai Hackathon 2022/NIC Uttarakhand AI Hackathon 2022/NIC Uttarakhand AI Hackathon 2022/EPFO/EPFO_textfile.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Uttarakhand Ai Hackathon 2022/NIC Uttarakhand AI Hackathon 2022/NIC Uttarakhand AI Hackathon 2022/External Affairs/final_mea_data.json
+C:/Users/NIC/Desktop/hackthon/NIC Uttarakhand Ai Hackathon 2022/NIC Uttarakhand AI Hackathon 2022/NIC Uttarakhand AI Hackathon 2022/Finance/Ministry of finance.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Uttarakhand Ai Hackathon 2022/NIC Uttarakhand AI Hackathon 2022/NIC Uttarakhand AI Hackathon 2022/Invest India/investIndia.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Uttarakhand Ai Hackathon 2022/NIC Uttarakhand AI Hackathon 2022/NIC Uttarakhand AI Hackathon 2022/Mieit/minit.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Uttarakhand Ai Hackathon 2022/NIC Uttarakhand AI Hackathon 2022/NIC Uttarakhand AI Hackathon 2022/Parliament/gender_test.txt.json
+C:/Users/NIC/Desktop/hackthon/NIC Uttarakhand Ai Hackathon 2022/NIC Uttarakhand AI Hackathon 2022/NIC Uttarakhand AI Hackathon 2022/UIDAI/adhar.json
+C:/Users/NIC/Desktop/hackthon/NIC Uttarakhand Ai Hackathon 2022/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/ayush/ayush_AAA.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/ayush/ayush_DIP_Act.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/ayush/ayush_Insecticides_Rules.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/ayush/ayush_national.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/deapr/deapr_BankingOmbudsmanScheme2006_0.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/deapr/deapr_DFS_Annual_Report_2020-21.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_Agriculture_Produce_(Grading___Marking)Act1937_(Act_No1_of_1937)as_Amended.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_Farmers_Produce_Trade_and_Commerce_(Promotion_and_Facilitation)_Rules_2020.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_Farmers_Welfare.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_Farmers_Welfare_2.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_General_Grading___Marking_Rules_1988.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_Group_-_A_Posts_Recruitment_Rules.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_MINISTRY_OF_LAW_JUSTICE_AND_COMPANY_.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_Model_Agricultural_Produce_and_Livestock_Marketing(Promotion___Facilitation)_Act_2017.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_Model_Agricultural_Produce_Market_Committee_Act_2003.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_Model_Agricultural_Produce_Market_Committee_rules_2007.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_Model_Bye-laws_for_Registration_of_Societies_under_MSCS_Act_2002.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_Multi-State_Cooperative_Societies_Act_2002.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_Multi-State_Cooperative_Societies_Rules_2002.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_National_Cooperative_Development_Corporation_(NCDC)_Act_1962(26_of_1962)_As_amended_up_to_16_Sep.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_Organic_Agricultural_Produce_Grading_and_Marking_Rules_2009.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_THE_COCONUT_DEVELOPMENT_BOARD_ACT_1979.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_The_Farmers_(Empowerment_and_Protection)_Agreement_on_Price_Assurance_and_Farm_Services_Ordinance_2020.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_THE_FARMERS_EMPOWERMENT_AND_PROTECTION_AGREEMENT_ON_PRICE_ASSURANCE_AND_FARM_SERVICES_ACT_2020.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_The_Farmers_Produce_Trade_and_Commerce_(Promotion_and_Facilitation_Ordinance_2020.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_THE_FARMERS_PRODUCE_TRADE_AND_COMMERCE_PROMOTION_AND_FACILITATION_ACT_2020.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_The_Farmers__Produce_Trade_and_Commerce_(Promotion_and_Facilitation)_Rules_2020.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doaac/doaac_The_State_UT_Agricultural_Produce.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/docom/docom_AGRICULTURAL_AND_PROCESSED_FOOD_PRODUCTS_EXPORT_DEVELOPMENT.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/docom/docom_The_Coffee_Act_1942.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/docom/docom_THE_EXPORT_(QUALITY_CONTROL_AND_INSPECTION)_ACT_1963.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/docom/docom_THE_MARINE_PRODUCTS_EXPORT_DEVELOPMENT_AUTHORITY_ACT_1972.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/docom/docom_THE_RUBBER_ACT_1947.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/docom/docom_THE_SEMICONDUCTOR_INTEGRATED_CIRCUITS.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/docom/docom_THE_SPICES_BOARD_ACT_1986.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/docom/docom_THE_TEA_ACT_1953.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/docom/docom_THE_TOBACCO_BOARD_ACT_1975.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dodaf/dodaf_BoT_Regulation.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dodaf/dodaf_National_Policy_for_Persons_with_Disabilities.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dodaf/dodaf_Notification_15.6.2017.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dodaf/dodaf_Notification_26.7.2000.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dodaf/dodaf_Notification_4.2.15.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dodaf/dodaf_Notification_8.9.2017.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dodaf/dodaf_THE_REHABILITATION_COUNCIL_OF_INDIA_ACT_1992.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dodaf/dodaf_THE_RIGHTS_OF_PERSONS_WITH_DISABILITIES_ACT_2016.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dofpd/dofpd_1_272_1_vopr.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dofpd/dofpd_1_276_1_Annex-II.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dofpd/dofpd_1_324_1_FoodSecurityAllowanceRules.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dofpd/dofpd_1_326_1_DBTRules.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dofpd/dofpd_1_371_1_Warehousing_Development_Regulation_Registration_of_Warehouses_Rules_2017.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dofpd/dofpd_1_87_1_Short-term-loan-under-SDF.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dofpd/dofpd_FOOD_CORPORATION_ACT_1964.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dofpd/dofpd_Notification_18.6.22.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dofpd/dofpd_Notification_21.10.20.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dofpd/dofpd_THE_WAREHOUSING_CORPORATIONS_ACT_1962.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dofpd/dofpd_Warehousing_Coporation_Act_1965.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dofpd/dofpd_Warehousing_Development_and_Regulation_Act_2007.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doipp/doipp_THE_COPYRIGHT_ACT_1957.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doipp/doipp_THE_GEOGRAPHICAL_INDICATIONS_OF_GOODS_ACT_1999.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doipp/doipp_THE_INDUSTRIES_(DEVELOPMENT_AND_REGULATION)_ACT_1951.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doipp/doipp_THE_INFLAMMABLE_SUBSTANCES_ACT_1952.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/doipp/doipp_THE_NATIONAL_INSTITUTES_OF_DESIGN_ACT_2014(httpswww.indiacode.nic.inbitstream12345678921321A2014-18.pdf).json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_CCS_(LTC_Rules).json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_CentralCivilServices(LeaveTravelConcession)Rules_1988(Notification_dated03051988).json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_CentralCivilServicesRules1964BringingOutARevisedUpdated_Edition.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_Central_Civil_Services_(Conduct)_Rules_1964_(Updated).json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_Central_Civil_Services_(Temporary_Service)_Rules_1965.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_CENTRAL_SECRETARIAT_CLERICAL_SERVICE_RULES_1962.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_Central_Secretariat_Service_Rules_1962.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_Concept_Note_on_Electronic_Financial_Transactions_and_Data_Standards.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_Concept_Paper_on_Natural_Resource_Accounting.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_CSSS_Rules_1969.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_General-Financial-Rules.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_IAS_(Pay)_2nd_Amendment_Rules_2008.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_IFS_(Pay)_2nd_Amendment_Rules_2008.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_IPS_(Pay)_Amendment_Rules_2008.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_Manual_of_Office_Procedure.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_Record-Retention-Schedule-as-PrescribedAdministrative-Reforms-and-Public-Grievances.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_Relevant-Portions-of-the-Constitution-of-India-relating-to-the-All-India-Services..json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_Remaning__The_All_India_Services_(Death-Cum-Retirement_Benefits)_Rules_1958.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_The-All-India-Services-Act_-1951.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_The_All_India_Services_(Compensatory_Allowance)_Rules_1954.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_The_All_India_Services_(Conduct)_Rules_1968.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_The_All_India_Services_(Discipline_and_Appeal)_Rules_1969.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_The_All_India_Services_(Medical_Attendance)_Rules_1954.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_The_All_India_Services_(Prevention_of_Sexual_Harassment)_Regulations_1998.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_The_All_India_Services_(Provident_Fund)_Rules_1955.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_The_All_India_Services_(Special_Disability_Leave)_Regulations1957.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_The_All_India_Services_(Study_Leave)_Regulations_1960.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_The_All_India_Services_(Travelling_Allowance)_Rules_1954.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_The_IAS_(PAY)_Rules_2007.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_The_IFS_(PAY)_Rules_2007.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dopat/dopat_The_IPS_(PAY)_Rules_2007.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dorvu/dorvu_Narcotic-Drugs-and-Psychotropic-Substances-Act-1985.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dorvu/dorvu_Narcotic-Drugs-and-Psychotropic-Substances-Rules-1985_0.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dorvu/dorvu_wealthtax1957.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dowcd/dowcd_THE_COMMISSIONS_FOR_PROTECTION_OF_CHILD_RIGHTS_ACT_2015.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dowcd/dowcd_THE_COMMISSION_OF_SATI_(PREVENTION)_ACT_1987.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dowcd/dowcd_THE_DOWRY_PROHIBITION_ACT_1961.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dowcd/dowcd_THE_FOOTWEAR_DESIGN_AND_DEVELOPMENT_INSTITUTE_ACT_2017.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dowcd/dowcd_THE_IMMORAL_TRAFFIC_ACT_1956.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dowcd/dowcd_THE_INDECENT_REPRESENTATION_OF_WOMEN_(PROHIBITION)_ACT_1986.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dowcd/dowcd_THE_INFANT_MILK_SUBSTITUTES.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dowcd/dowcd_THE_JUVENILE_JUSTICE_(CARE_AND_PROTECTION_OF_CHILDREN)_ACT_2015.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dowcd/dowcd_THE_NATIONAL_COMMISSION_FOR_WOMEN_ACT_1990.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dowcd/dowcd_THE_ORPHANAGES_AND_OTHER_CHARITABLE_HOMES_ACT_1960.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dowcd/dowcd_THE_PROHIBITION_OF_CHILD_MARRIAGE_ACT_2006.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dowcd/dowcd_THE_PROTECTION_OF_CHILDREN_FROM_SEXUAL_OFFENCES_ACT_2012.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dowcd/dowcd_THE_PROTECTION_OF_WOMEN_FROM_DOMESTIC_VIOLENCE_ACT_2005.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dowcd/dowcd_THE_SPECIAL_ECONOMIC_ZONES.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/dowcd/dowcd_THE_WOMENS_AND_CHILDRENS_INSTITUTIONS_(LICENSING)_ACT_1956.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/minit/minit_E-mail_policy_of_Government_of_India.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/minit/minit_E-Waste_(Management)_Rules_2016.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/minit/minit_Policy_on_use_of_IT_Resources_of_Government_of_India.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/minit/minit_THE_AADHAAR_(TARGETED_DELIVERY_OF_FINANCIAL_AND_OTHER_SUBSIDIES.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/minit/minit_THE_INFORMATION_TECHNOLOGY_ACT_2000 (1).json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/minit/minit_THE_INFORMATION_TECHNOLOGY_ACT_2000.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/moaib/moaib_A1867_25.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/moaib/moaib_ARRANGEMENT_OF_SECTIONS.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/moaib/moaib_RevisedTemplateofRTIforWebsite.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/mocav/mocav_229221pdf.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/mocav/mocav_233331pdf.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/mocav/mocav_aircraft_amendment_act_2020pdf.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/mocav/mocav_Anti-hijacking_Act_2016pdf.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/mocav/mocav_Carriage_by_Air_(Amendment)_Act_2016pdf.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/mocav/mocav_Dangerous_Goods_Amendment_Rules_2022pdf.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/mocav/mocav_moca_000719_0pdf.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/mocav/mocav_moca_003432_0pdf.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/uidai/uidai_Aadhaar_Authentication_for_Good_Governance_Rules_2020.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/uidai/uidai_Circular_dated_30_09_2020_regarding_Aadhaar_PVC_Card.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/uidai/uidai_MINISTRY_OF_LAW_AND_JUSTICE.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/uidai/uidai_Supremecourt_Aadhar_Judgement.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/NIC,MP State AI Team/NIC,MP State AI Team/uidai/uidai_Unique_Identification_Authority_of_India_Adjudication_of_Penalties_Rules_2021.json
+C:/Users/NIC/Desktop/hackthon/NIC, MP State AI Team/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/NIC-WB-AI-Endeavour/Merged_Q_A_Dataset_03082022_final.json
+C:/Users/NIC/Desktop/hackthon/NIC-WB-AI-Endeavour/Ministry_wise_json_updated_03082022/Ministry_wise_json_updated/NIC-WB-AI-ENDEAVOUR-DOCOM.json
+C:/Users/NIC/Desktop/hackthon/NIC-WB-AI-Endeavour/Ministry_wise_json_updated_03082022/Ministry_wise_json_updated/NIC-WB-AI-ENDEAVOUR-DOEXP.json
+C:/Users/NIC/Desktop/hackthon/NIC-WB-AI-Endeavour/Ministry_wise_json_updated_03082022/Ministry_wise_json_updated/NIC-WB-AI-ENDEAVOUR-DOPPW.json
+C:/Users/NIC/Desktop/hackthon/NIC-WB-AI-Endeavour/Ministry_wise_json_updated_03082022/Ministry_wise_json_updated/NIC-WB-AI-ENDEAVOUR-ECI.json
+C:/Users/NIC/Desktop/hackthon/NIC-WB-AI-Endeavour/Ministry_wise_json_updated_03082022/Ministry_wise_json_updated/NIC-WB-AI-ENDEAVOUR-MEAPD.json
+C:/Users/NIC/Desktop/hackthon/NIC-WB-AI-Endeavour/Ministry_wise_json_updated_03082022/Ministry_wise_json_updated/NIC-WB-AI-ENDEAVOUR-MINIT.json
+C:/Users/NIC/Desktop/hackthon/NIC-WB-AI-Endeavour/Ministry_wise_json_updated_03082022/Ministry_wise_json_updated/NIC-WB-AI-ENDEAVOUR-MINPA.json
+C:/Users/NIC/Desktop/hackthon/NIC-WB-AI-Endeavour/Ministry_wise_json_updated_03082022/Ministry_wise_json_updated/NIC-WB-AI-ENDEAVOUR-MOLBR.json
+C:/Users/NIC/Desktop/hackthon/NIC-WB-AI-Endeavour/Ministry_wise_json_updated_03082022/Ministry_wise_json_updated/NIC-WB-AI-ENDEAVOUR-POI.json
+C:/Users/NIC/Desktop/hackthon/NIC-WB-AI-Endeavour/Ministry_wise_json_updated_03082022/Ministry_wise_json_updated/NIC-WB-AI-ENDEAVOUR-UIDAI.json
+C:/Users/NIC/Desktop/hackthon/Ranchi Risers/ranchi_risers_data/data/ranchi_risers/DEAPR/DEAPR.txt.json
+C:/Users/NIC/Desktop/hackthon/Ranchi Risers/ranchi_risers_data/data/ranchi_risers/DOCOM/DOCOM.txt.json
+C:/Users/NIC/Desktop/hackthon/Ranchi Risers/ranchi_risers_data/data/ranchi_risers/DOEAF/DOEAF.txt.json
+C:/Users/NIC/Desktop/hackthon/Ranchi Risers/ranchi_risers_data/data/ranchi_risers/ECI/ECI.txt..json
+C:/Users/NIC/Desktop/hackthon/Ranchi Risers/ranchi_risers_data/data/ranchi_risers/EPFO/EPFO.txt.json
+C:/Users/NIC/Desktop/hackthon/Ranchi Risers/ranchi_risers_data/data/ranchi_risers/MINIT/MINIT.txt.json
+C:/Users/NIC/Desktop/hackthon/Ranchi Risers/ranchi_risers_data/data/ranchi_risers/MINPA/MINPA.txt.json
+C:/Users/NIC/Desktop/hackthon/Ranchi Risers/ranchi_risers_data/data/ranchi_risers/MOLBR/MOLBR.txt.json
+C:/Users/NIC/Desktop/hackthon/Ranchi Risers/ranchi_risers_data/data/ranchi_risers/UIDAI/UIDAI.txt.json
+C:/Users/NIC/Desktop/hackthon/Ranchi Risers/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/Shimla Champs/Stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/stage2/dev-v2.0.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_bangkok_agreement.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_Brief_Glance_on_the_GATS-1.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_ceylon.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_CIM_parliamant_statement_WTO_28_11_2014.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_CIM_parliamant_statement_WTO_5_8_2014.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_Elements_Req_completions_Services_negotiation-1.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_Final_JSG_Report_as_printed_and_released_4thMay_2010.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_Flag-A_Background-note-on-the-WTO-negotiations1.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_Flag-B1-1.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_Flag-B2.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_Flag-B3.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_Flag-K_-CIM-statement-in-Parliament_Bali.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_Flag-N_W605.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_INDIA-KOREA-CEPA-2009.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_India_EU_jap.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_India_Indonesia_JSG_Report_2009.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_India_Malaysia_Agreement_CECA-1-1.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_India_NewZealand_Joint_Study_Report_2009.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_India_USA_Dialogue.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_jt_statement_usindia_trade_policy_forum.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_MOC_636156057952507552_Five_Year_Development_Plan_Commerce_18_9_2014.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_nepal.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_safta.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_Text-of-GATS.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/DOCOM/squad_qa_Unauthorized_Trade_Nepal.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/ECI/squad_qa_1799581347_CompendiumofInstructionsonElectionExpenditureMonitoring(October2021)-English.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/ECI/squad_qa_Compendium of Instructions on Election Expenditure Monitoring (August, 2020) English.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/ECI/squad_qa_Compendium_MCC.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/ECI/squad_qa_Compendium_of_Instruction_on_Media_Related_Matters_2020_19022021.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/ECI/squad_qa_compendium_on_paid_news_11092015.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/ECI/squad_qa_ECI SVEEP 2014.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/ECI/squad_qa_PN-57.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/ECI/squad_qa_SuppIns2013_part1_Page1-63_07092013.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/ECI/squad_qa_Vol_III_Compendium_of_Instrcutions_2019.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/ECI/squad_qa_Vol_II_Compendium_of_Instrcutions_2019.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/ECI/squad_qa_Vol_IV_Compendium_of_Instrcutions_2019.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/ECI/squad_qa_Vol_I_Compendium_of_Instrcutions_2019.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/EPFO/squad_qa_EoDB_Newsletter_Issue2.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/EPFO/squad_qa_EPFAct1952.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/EPFO/squad_qa_EPFScheme.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/EPFO/squad_qa_EPS95_update102008.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/EPFO/squad_qa_RIAct.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (1).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (10).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (11).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (12).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (13).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (14).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (15).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (16).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (17).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (18).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (19).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (2).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (20).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (21).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (22).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (23)(1).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (23).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (24).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (25).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (26).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (27).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (28).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (29).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (3).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (30).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (31).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (32).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (33).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (34).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (35).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (36).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (37).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (38).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (39).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (4).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (40).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (41).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (42).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (43).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (44).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (45).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (46).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (47).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (48).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (49).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (5).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (50).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (51).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (6).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (7).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (8).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions (9).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/II/squad_qa_Invest_India_Frequently_Asked_Questions.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MEAPD/squad_qa_25403_India_foreign_relation_2013.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MEAPD/squad_qa_India-foreign-relation-2011.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MEAPD/squad_qa_India-foreign-relation-2012.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MEAPD/squad_qa_main_2008.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MEAPD/training_all_merged_squad_json.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MEAPD/validation_all_merged_squad_json.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MEAPD/validation_squad_qa_Indias_Foreign_Relations_2009.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINFIN/squad_qa_222064.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINFIN/squad_qa_ADB Act 1966.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINFIN/squad_qa_Annual Report 2019-2020 (English) (1).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINFIN/squad_qa_Annual Report 2019-2020 (English) (2).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINFIN/squad_qa_Annual Report 2019-2020 (English).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINFIN/squad_qa_DepositoryReceiptsScheme2014.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINFIN/squad_qa_FEO Act - Notifications.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINFIN/squad_qa_FEO Act - Rules.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINFIN/squad_qa_FEO Act 2018.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINFIN/squad_qa_FRBM_2ndAmendment_Rules2015.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINFIN/squad_qa_GSRE13032012.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINFIN/squad_qa_guideline-ElemEducation.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINFIN/squad_qa_guideline-UID.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINFIN/squad_qa_Guidelines for Forest.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINFIN/squad_qa_Guidelines for Improvement in Justice Delivery.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINFIN/squad_qa_GUIDELINES FOR SETTLEMENT OF CLAIMS FOR COMPENSATION_0.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINFIN/squad_qa_IFSCA Act 2019_1.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_231960.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_ArmyCyber_ForesicLab_Notification.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_Bhim_Cashback_Scheme-Revised.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_eGazetteeNotification_FSL Rohini_Delhi_184853.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_Extension_of_DIGIDHAN_MISSION_Mission.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_Gazette Notification - Designated Officer 69A NCCC Dir oct2020.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_Gazette Significant social media threshold.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_gazette_notification_on_subsidizing_mdr_charges.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_Gazzette noti Locker.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_Gaz_DG_NIC.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_GSR 28 (E) - CCA RRs (1).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_GSR 28 (E) - CCA RRs (2).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_GSR 28 (E) - CCA RRs.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_Intermediary_Guidelines_and_Digital_Media_Ethics_Code_Rules-2021.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_JSA-comp.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_LDCE__ASO.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_LDCE__PA.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_LDCE__SO.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_LDCE__Steno.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_NCIIPC-Rules-notification.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_Notification CERT-In RRs.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_Notification for DigiDhan mission.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_Notification on BHIM Aadhaar Merchant incentive scheme.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_office info data.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_recruitment-rules-for-group-a-s-and-t-posts.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_Recruitment-rules-for-Library-Cadre-posts.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_recruitment-rules-for-the-post-of-jd-(ol)-dd-(ol)-ad-(ol)-sr-translator-and-jr-translator (1).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_recruitment-rules-for-the-post-of-jd-(ol)-dd-(ol)-ad-(ol)-sr-translator-and-jr-translator (2).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_recruitment-rules-for-the-post-of-jd-(ol)-dd-(ol)-ad-(ol)-sr-translator-and-jr-translator.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_recruitment_rules_for_group-b-non-s-and-t_posts_of_meity.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_recruitment_rules_for_group_a_and_group_b_posts_of_cert-in_meity.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_RFSL_Dharamshala_214405.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_RRs_(Amendment)_Group_A_S_T_posts (1).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_RRs_(Amendment)_Group_A_S_T_posts (2).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_RRs_(Amendment)_Group_A_S_T_posts.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_RRs_DG_STQC.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_RRs_Group_C_posts.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_SFSL_Bangaluru_Notification.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_SSA-comp.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_THE_AADHAAR_ACT_2016.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINIT/squad_qa_UIDAI as Protected System.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_17_Petroleum_And_Natural_Gas_13.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_17_Public_Accounts_50.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_bs_2015-16.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_bs_2016-17.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_bs_2017-18.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_bs_2018-19.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_bs_2019-2020.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_bs_2019_20_interim.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_bs_2020-21.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_bs_2021-22.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_bs_2022-23.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_kovind_20-06-2019.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_kovind_29_01_2018.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_Kovind_29_01_2021.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_Kovind_31_01_2020.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_Kovind_31_01_2022.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_Kovind_31_1_2019.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_lsb_16_17.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_lsb_17_02.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_lsb_17_03.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_lsb_17_04.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_mukherjee_09_06_2014.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_mukherjee_21_02_2013.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_mukherjee_23_02_2015.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_mukherjee_23_02_2016.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_mukherjee_31_01_2017.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_patil_04_06_2009.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_patil_12_02_2009.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_patil_12_03_2012.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_patil_21_02_2011.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_patil_22_02_2010.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_patil_25_02_2008.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_pms_17_01_25-06-2019.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_pms_17_03_06-02-2020.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_pms_17_05_10-02-2021.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/squad_qa_rbs_2016-17.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/.ipynb_checkpoints/all_merged_squad_v2-checkpoint.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/.ipynb_checkpoints/all_merged_squad_v3.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/MINPA/.ipynb_checkpoints/squad_qa_17_Petroleum_And_Natural_Gas_13-checkpoint.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/PP/squad_qa_CCS-Pension-Rules 2021-English (1).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/PP/squad_qa_CCS-Pension-Rules 2021-English.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/PP/squad_qa_CCS_COPRules_1981_060613.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/PP/squad_qa_Compendium_of_PFRDA Act_Rules_and_Regulations_2021.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/PP/squad_qa_GPF_Rules_1960_230913.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/PP/squad_qa_Important_initiatives_under_NPS.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/PP/squad_qa_NPS_TerminalBenefits_InServiceDeath.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/PP/squad_qa_Retirement_benefits_in_one_click.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/PP/training_all_merged_squad_json.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/PP/validation_all_merged_squad_json.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/PP/validation_squad_qa_CCS-Pension-Rules 2021-English (2).json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/PP/validation_squad_qa_CSS_PensionRules_2021_Book_Eng.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_10_Appointment_of_Officers_Employees_of_UIDAI.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_11_Salary_Allowance_of_Employee_of_UIDAI.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_Aadhaar-EU-Amendment-Regulations-dated-02082018.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_Aadhaar_Act_2016_as_amended.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_AADHAAR_AUTHENTICATION_AND_OFFLINE_VERIFICATION_REGULATIONS_2021.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_Aadhaar_Authentication_for_Good_Governance_Rules_2020.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_Aadhaar_Judgment.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_Action_plan_Swachhta_Pakhwada-Feb2022.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_Amendment_Act_2019.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_APB_NPCI_Mapper_Notification_26122017.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_Circular_dated_30_09_2020_regarding_Aadhaar_PVC_Card.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_Forwarding-of-Policy-for-enforcing-of-Aadhaar-Enrolment.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_Fourth_amendment_aadhaar_enrolment_and_update_23122017.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_Gazette_Notification_dated_03_03_2022.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_Gazette_notification_Reg12_21_amend_07072017.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_Notification-dated-14-10-21.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_Notifications_in_connection_with_Regulations_12A_15072017.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_notification_28_jan_2009.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_notification_chairman_rules_13072016.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_notification_dated_04_02_2022.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_Notification_dated_22_03_2022.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_Notification_dated_4042019_Proof_of_Possession_of_Aadhaar_number.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_Pan-Aadhaar_Linking.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_Policy-for-enforcing-process-guidelines-dated-24-03-2021.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_regulation_1_to_5_15092016.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_reg_amendment_16022017.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_Right_to_Privacy.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_targeted_delivery_of_financial_and_other_subsidies_benefits_and_services_13072016.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_The_Aadhaar_Eighth_Amendment_Regulations_2020_Notification_30_06_2020.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_UIDAI-Returns-and-Annual-Report-Rules-2018-13062018.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_UIDAI_Circular_Guidelines_on_use_of_Aadhaar_section_7_of_the_Aadhaar_Act_2016_by_the_State_Governments_25Nov_19.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_UIDAI_Form_of_Annual_statement_of_Accounts_Rules_2018.json
+C:/Users/NIC/Desktop/hackthon/The Future Force/TheFutureForce/DataSet/MinistryData/MinistryData/MinistryData/UIDAI/squad_qa_Unique_Identification_Authority_of_India_Adjudication_of_Penalties_Rules_2021.json
+C:/Users/NIC/Desktop/hackthon/Transformers/train_easy.txt.json
+C:/Users/NIC/Desktop/hackthon/Transformers/stage2/dev-v2.0.json
